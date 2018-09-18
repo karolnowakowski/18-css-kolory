@@ -1,0 +1,14 @@
+body {
+    background-color: beige;
+}
+h1 {
+    color:red;
+}
+p1 {
+    color:crimson;
+    display: block;
+    margin-bottom: 20px;
+}
+p2 {
+    color:blue;
+}
