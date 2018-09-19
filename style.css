@@ -4,11 +4,13 @@ body {
 h1 {
     color:red;
 }
-p1 {
-    color:crimson;
+p {
     display: block;
     margin-bottom: 20px;
 }
-p2 {
+.karmazynowy {
+    color:crimson;
+}
+.niebieski {
     color:blue;
 }
